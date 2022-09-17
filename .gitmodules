@@ -1,0 +1,4 @@
+[submodule "aswebsite/public"]
+	path = aswebsite/public
+	url = https://github.com/as-production/as-production.github.io
+	branch = main
