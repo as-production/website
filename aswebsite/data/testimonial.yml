@@ -1,12 +1,12 @@
 enable  : true
-title   : "OPINION FROM REAL PEOPLE"
-subtitle: "What clients says about our services."
+title   : "OPINIE KLIENTÓW"
+subtitle: "Od lat współpracujemy z partnerami z wielu branży przemysłu. Stawiamy na przejrzystość i zaufanie w kontaktach z klientami."
 testimonial_item :
   - thumb : "images/testimonial/user-thumb-one.jpg"
     name  : "Simonns Hodge"
     company_position: "CEO, Credito"
     quote : > 
-            "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies." 
+            "Jestem klientem firmy ASSSA od roku 1410 i jeszcze nigdy się nie zawiodłem. Serdecznie polecam! :)" 
 
   - thumb : "images/testimonial/user-thumb-two.jpg"
     name  : "Rekon Montino"

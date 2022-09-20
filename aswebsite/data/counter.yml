@@ -1,14 +1,14 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "JESTEŚMY NA RYNKU PONAD 20 LAT!"
 counter_item: 
-  - title: "Happy Clients"
-    number: "250"
+  - title: "Lata doświadczenia"
+    number: "20"
 
-  - title: "Projects Completed"
+  - title: "Zaufani klienci"
     number: "100"
 
-  - title: "Cups of coffee"
-    number: "350"
+  - title: "Tony kruszyw"
+    number: "5000"
 
-  - title: "Telephone Talks"
-    number: "775"
+  - title: "Zrealizowane zamówienia"
+    number: "2000"
