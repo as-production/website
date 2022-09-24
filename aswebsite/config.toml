@@ -1,4 +1,4 @@
-baseURL       = "http://as-production.github.io/"
+baseURL       = "/"
 languageCode  = "en-us"
 title         = "ASSSA | Termiczna Obróbka Kruszyw"
 theme         = "roxo-hugo"
@@ -72,7 +72,7 @@ summarylength = 25
   [params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
-    title               = "WSPÓŁPRACUJ Z NAMI"
+    title               = "ZŁÓŻ ZAMÓWIENIE"
     primary_button        = "Sprawdź ofertę"
     primary_button_url    = "portfolio"
     secondary_button      = "Wyślij zapytanie"
