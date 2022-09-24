@@ -1,5 +1,5 @@
 ---
-title: "About Us"
+title: "ASSSA | O nas"
 date: 2018-07-12T18:19:33+06:00
 heading : "ASSSA POLAND: TERMICZNA OBRÓBKA KRUSZYW MINERALNYCH"
 description : "Zajmujemy się termiczną obróbką kruszyw mineralnych. W procesach produkcyjnych następuje uszlachetnienie kruszyw poprzez płukanie, wstępną segregację, obróbkę termiczną i dokładne rozdzielenie poszczególnych frakcji. Wyselekcjonowane przez nas kruszywa posiadają bardzo dobre właściwości techniczne i chemiczne, dzięki czemu znajdują szerokie zastosowanie w przemyśle." 
